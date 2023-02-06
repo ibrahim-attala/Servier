@@ -15,7 +15,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 2. In cell #3, update the paths to the training, validation and test sets
-3. Run all the Cells one by one.
+3. Run all the Cells one by one
 
 
 ### Python files
